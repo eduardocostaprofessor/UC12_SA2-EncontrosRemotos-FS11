@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/Turma FS11/BackEnd/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
