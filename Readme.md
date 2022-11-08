@@ -10,7 +10,7 @@ Ensino de Diagrama de Classes, herança, composição, agregação e associaçã
 Criação do projeto, classes, interfaces, aplicação de herança e objetos
 
 ### ER3 - Métodos e Construtores
-Métodos, construtores, sobrecarga e sobrescrita
+Métodos, construtores, sobrecarga e sobrescrita - desenvolvimento do método ValidarDataNacimento de Pessoa Física
 
 ### ER4 - Regex e Abstract Class
 Regex, classes abstratas, implementação do método da interface IPessoaFisica.ValidarCnpj
