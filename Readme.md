@@ -19,7 +19,7 @@ Regex, classes abstratas, implementação do método da interface IPessoaFisica.
 Implementação do método IPessoaCalcularImposto
 
 ### ER6 - Menu, Loading e Util
-Criação de menu console, loading console e classes estáticas
+Criação de menu de console Pessoa Jurídica e Física, loading e classe estática Util
 
 ### ER7 - Sub-menu e cadastro em memória
 Criação de sub-menu, cadastro e listagem de pessoa física e jurídica em memória com List<
