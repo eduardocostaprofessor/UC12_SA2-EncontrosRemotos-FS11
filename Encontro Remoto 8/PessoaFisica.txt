@@ -1,0 +1,3 @@
+Eduardo Silva,765434567,20/07/1982,3000, Rua de Casa, 123,True
+Maria Rosa,99998765,01/01/2000,3000, Avenida dos Patos, 55,False
+Carlos Roque,9876545678,31/05/1985,5500, Rua Niterói, 183,False
